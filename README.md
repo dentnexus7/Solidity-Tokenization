@@ -1,0 +1,1 @@
+This repository exemplifies creating a Token Sale using OpenZeppelin and Truffle through the "Ethereum Blockchain Developer Bootcamp With Solidity (2022)" Udemy course.
